@@ -1,0 +1,30 @@
+body {
+    background-color: aquamarine;
+    color: rgb(186, 14, 60);
+    font-family: Arial, sans-serif; /* Определяет семейство шрифтов */
+font-size: 18px; /* Устанавливает размер шрифта */
+font-weight: bold; /* Толщина шрифта (bold, normal, lighter) */
+line-height: 1.5; /* Межстрочный интервал */
+text-align: center; /* Выравнивание текста */
+h1, h2 {
+    color: #020b14;
+}
+a {
+    color: rgb(64, 10, 214);
+    text-decoration: none;
+    text-align: center;
+}
+a:hover {
+    text-decoration: underline;
+}
+ul {
+    list-style-type: square;
+}
+
+margin: 10px; /* Внешний отступ */
+padding: 15px; /* Внутренний отступ */
+border: 2px solid black; /* Граница вокруг элемента */
+border-radius: 30px; /* Закругленные углы */
+
+
+}
